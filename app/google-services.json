@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "543025446208",
+    "firebase_url": "https://fir-application-dc829-default-rtdb.firebaseio.com",
+    "project_id": "fir-application-dc829",
+    "storage_bucket": "fir-application-dc829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543025446208:android:d9e2a6350f8dc60b3e0ea5",
+        "android_client_info": {
+          "package_name": "com.example.demoapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RGckxcZTLM1yA6n5Ck6qLXYFhlfvrxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
